@@ -15,8 +15,8 @@ namespace datastructure
         public static void quick_sort(int[] qs, int left, int right)
     {
 
-        if(left<right)
-        int pivot = partition (ds, left, right);
+        // if(left<right)
+       // int pivot = partition (ds, left, right);
 
     }
 
